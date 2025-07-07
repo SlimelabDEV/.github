@@ -27,5 +27,3 @@ Tout le monde peut contribuer, joueur comme membre du staff.
 
 
 > Un grand merci à tous les contributeurs qui participent à l'amélioration de nos projets. Votre aide rend Slimelab encore meilleur chaque jour ❤️
-
----
