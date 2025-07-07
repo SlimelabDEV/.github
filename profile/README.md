@@ -34,7 +34,7 @@ Les modifications sont à proposer via **pull request** sur les dépôts concern
 ## 🧠 Ressources
 
 - 🌐 [Site Slimelab](https://slimelab.fr)
-- 🗺️ [Discord]((https://discord.com/invite/YF3ZNEqkxA))
+- 🗺️ [Discord](https://discord.com/invite/YF3ZNEqkxA))
 
 ---
 
