@@ -30,16 +30,3 @@ Les modifications sont à proposer via **pull request** sur les dépôts concern
 - Les erreurs ne sont **jamais pénalisées**, au contraire, elles aident à faire progresser !
 
 ---
-
-## 🧠 Ressources
-
-- 🌐 [Site Slimelab](https://slimelab.fr)
-- 🗺️ [Discord](https://discord.com/invite/YF3ZNEqkxA))
-
----
-
-## ✨ À propos
-
-Slimelab est un groupe de serveurs Minecraft ouvert depuis 2018, orienté vers la qualité, l'accessibilité, et la transparence communautaire.  
-
----
