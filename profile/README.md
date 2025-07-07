@@ -21,12 +21,11 @@ Ce GitHub contient des dépôts liés à nos serveurs minecraft : Valane, Crafta
 ## 🤝 Contribuer
 
 Tout le monde peut contribuer, joueur comme membre du staff.  
-Les modifications sont à proposer via **pull request** sur les dépôts concernés.
+- Les propositions se font via pull request.
+- Elles sont relues et validées par les gérants.
+- Chaque changement est tracé, encadré, et facilement réversible.
 
-### 🔒 Modération
 
-- Chaque PR est **relue et validée** par notre équipe.
-- Tous les changements sont **tracés**, **encadrés**, et **facilement réversibles**.
-- Les erreurs ne sont **jamais pénalisées**, au contraire, elles aident à faire progresser !
+> Un grand merci à tous les contributeurs qui participent à l'amélioration de nos projets. Votre aide rend Slimelab encore meilleur chaque jour ❤️
 
 ---
